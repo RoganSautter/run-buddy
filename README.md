@@ -14,3 +14,5 @@ https://RoganSautter.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Rogan Sautter
+
+### ©️2019 Run Buddy, Inc
